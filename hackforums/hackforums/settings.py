@@ -12,7 +12,7 @@ BOT_NAME = "hackforums"
 SPIDER_MODULES = ["hackforums.spiders"]
 NEWSPIDER_MODULE = "hackforums.spiders"
 
-SCRAPEOPS_API_KEY = 'fd10ab8a-6686-4afe-a223-c723e4d69b49'
+SCRAPEOPS_API_KEY = 'SCRAPEOPS API KEY'
 SCRAPEOPS_PROXY_ENABLED = True
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent

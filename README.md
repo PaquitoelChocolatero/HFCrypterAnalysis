@@ -72,7 +72,9 @@ sqlite3 hackforums.db < create.sql
 
 
 ## Run crawler
-The files are in path: /HFCrypterAnalysis/hackforums/hackforums/spiders
+The files are in path: HFCrypterAnalysis/hackforums/hackforums/spiders
+
+Before running the crawler create an account in scrapeops and add the aspi key to HFCrypterAnalysis/hackforums/hackforums/settings.py
 
 First run the crawler of the marketplace thread list
 ```bash
