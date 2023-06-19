@@ -1,0 +1,17 @@
+scrapy
+stem
+scrapeops-scrapy
+scrapeops_scrapy_proxy_sdk
+scrapy-playwright
+scrapy-selenium
+opencv-python
+pytesseract
+opencv-python
+polyglot
+tensorflow
+networkx
+transformers
+icu
+pyicu
+pycld2
+morfessor
