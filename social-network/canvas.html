@@ -144,7 +144,7 @@ transform.k = initialZoom;
 let opacities = {}
 let opacityChanged = false
 
-d3.json("https://paquitoelchocolatero.github.io/crypterCrawler/social-network/data.json")
+d3.json("https://paquitoelchocolatero.github.io/HFCrypterAnalysis/social-network/data.json")
     .then(function(data){
         nodes = data.nodes.map(d => Object.assign({}, d));
         edges = data.links.map(d => Object.assign({}, d));
